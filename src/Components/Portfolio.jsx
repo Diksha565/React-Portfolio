@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The Food Crew 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Food Crew is a beginner-friendly website that aims to deliver food for food lovers from around the specified cities according to their preferences.",
+    url: "https://github.com/Diksha565/The-Food-Crew",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hospital Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Project based on MySQL and SQL server. The Hospital Management System (HMS) is a software application designed to streamline the management of hospital operations.",
+    url: "https://github.com/Diksha565/Hospital-Management-System",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/Diksha565/workspace/tree/main/solution",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Portfolio Using React",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created from Microsoft's react portfolio workshop on codespaces.",
+    url: "https://github.com/Diksha565/React-Portfolio",
   },
 ];
 
