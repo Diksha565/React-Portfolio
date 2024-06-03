@@ -22,7 +22,8 @@ import PropTypes from "prop-types";
  */
 import image from "../images/home-office.jpg";
 
-const imageAltText = "A home or office table having a macbook and stationary supplies placed on the top.";
+const imageAltText =
+  "A home or office table having a macbook and stationary supplies placed on the top.";
 
 const Home = ({ name, title }) => {
   return (
