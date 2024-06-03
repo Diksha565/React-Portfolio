@@ -50,8 +50,7 @@ const projectList = [
   },
   {
     title: "Portfolio Using React",
-    description:
-      "Created from Microsoft's react portfolio workshop on codespaces.",
+    description: "Created from Microsoft's react portfolio workshop on codespaces.",
     url: "https://github.com/Diksha565/React-Portfolio",
   },
 ];
